@@ -69,16 +69,6 @@ Investigar cómo han evolucionado los Juegos Olímpicos desde 1896 hasta la actu
 
 
 
-
-##  Autor:
-
-**Juan Sebastián Buelvas Rodelo**
-Estudiante de Economía | Apasionado por la analítica de datos y la visualización significativa.
-
-
-
-
-
 ## 🔗 Contacto:
 
 📧 [buelvasrodelojuansebastian@gmail.com](mailto:buelvasrodelojuansebastian@gmail.com)
